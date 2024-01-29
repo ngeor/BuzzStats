@@ -2,9 +2,11 @@
 
 [![Java CI with Maven](https://github.com/ngeor/BuzzStats/actions/workflows/maven.yml/badge.svg)](https://github.com/ngeor/BuzzStats/actions/workflows/maven.yml)
 
+**Archived project!**
+This project is **archived** and will be **removed**.
+It has moved [here](https://github.com/ngeor/kamino/tree/master/web/BuzzStats).
+
 Monitors web pages for changes.
-
-
 
 ## How to start the buzzstats application
 
